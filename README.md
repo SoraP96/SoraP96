@@ -5,7 +5,6 @@ Me gusta construir UIs claras y APIs fiables. Aprendizaje continuo y trabajo en 
 
 ### Redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B1D2C?style=for-the-badge)](https://tu-dominio-o-github-pages)
 
 ### Habilidades Técnicas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
