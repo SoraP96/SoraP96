@@ -19,8 +19,8 @@ Experiencia previa en entornos industriales que me aportó **disciplina**, **res
 Me mueven el **aprendizaje continuo**, la **calidad de código** y construir productos útiles.
 
 - 🔭 Actualmente: practicando **APIs REST** (autenticación **JWT**, manejo de errores, tests)  
-- 🌱 Aprendiendo: **TypeScript** y **Docker** (básico)  
-- 🤝 Abierto a colaborar en: proyectos **React + Flask** o **Django REST**  
+- 🌱 Aprendiendo: **TypeScript** y **Django REST** (básico)  
+- 🤝 Abierto a colaborar en: proyectos **React + Flask**
 - 💬 Pregúntame por: **React**, **Bootstrap**, **Flask**, **SQL**, **Git/GitHub**  
 - 📫 Cómo contactarme: **ponsblancomarlon@gmail.com** · [LinkedIn](www.linkedin.com/in/mapons96) 
 
@@ -39,7 +39,7 @@ Me mueven el **aprendizaje continuo**, la **calidad de código** y construir pro
 **Back-End**  
 ![Python](https://img.shields.io/badge/Python-0B1D2C?logo=python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/Flask-0B1D2C?logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0B1D2C?logo=django&logoColor=092E20)
+![Django (básico)](https://img.shields.io/badge/Django-0B1D2C?logo=django&logoColor=092E20)
 ![SQL](https://img.shields.io/badge/SQL-0B1D2C?logo=postgresql&logoColor=336791)
 
 **APIs & Auth**  
@@ -50,7 +50,6 @@ Me mueven el **aprendizaje continuo**, la **calidad de código** y construir pro
 **Versionado & DevOps**  
 ![Git](https://img.shields.io/badge/Git-0B1D2C?logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0B1D2C?logo=github&logoColor=white)
-![Docker (básico)](https://img.shields.io/badge/Docker_(básico)-0B1D2C?logo=docker&logoColor=2496ED)
 
 ---
 
