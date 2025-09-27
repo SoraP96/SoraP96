@@ -6,11 +6,6 @@
   <b>Full Stack Developer</b> — React · Bootstrap · Python/Flask · SQL
 </p>
 
-<p align="center">
-  <a href="https://github.com/SoraP96">
-    <img src="https://komarev.com/ghpvc/?username=SoraP96&style=flat&color=1F8AA7" alt="visitas de perfil" />
-  </a>
-</p>
 
 ## Sobre mí
 
