@@ -24,6 +24,6 @@ Me gusta construir UIs claras y APIs fiables. Aprendizaje continuo y trabajo en 
 ### Proyectos Destacados
 - **Feed tipo Instagram** – HTML + Bootstrap + JS (responsive, modales, likes).
 - **Contact List App** – React + Context + Router (CRUD, búsqueda, favoritos).
-- **Marketplace de alquiler deportivo** – React + Flask + SQL (catálogo, carrito, favoritos).
+- **Sportsy** – React + Flask + SQL (catálogo, carrito, favoritos).
 
 > Si te gusta lo que ves, ¡conectemos! 🙂
