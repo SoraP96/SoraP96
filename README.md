@@ -22,7 +22,7 @@ Me mueven el **aprendizaje continuo**, la **calidad de código** y construir pro
 - 🌱 Aprendiendo: **TypeScript** y **Docker** (básico)  
 - 🤝 Abierto a colaborar en: proyectos **React + Flask** o **Django REST**  
 - 💬 Pregúntame por: **React**, **Bootstrap**, **Flask**, **SQL**, **Git/GitHub**  
-- 📫 Cómo contactarme: **tu-email@ejemplo.com** · [LinkedIn](https://www.linkedin.com/in/tu-usuario) · Portfolio: _añade tu enlace_
+- 📫 Cómo contactarme: **ponsblancomarlon@gmail.com** · [LinkedIn](www.linkedin.com/in/mapons96) 
 
 ---
 
