@@ -54,21 +54,6 @@ Me mueven el **aprendizaje continuo**, la **calidad de código** y construir pro
 
 ---
 
-## 🚀 Proyectos Destacados
-
-> Reemplaza los enlaces con tus repos reales y añade 1–2 bullets por impacto.
-
-- **Clon de feed tipo Instagram** — `HTML + Bootstrap + JS`  
-  _Grid de cards, stories, modales y “likes”; diseño responsive._
-
-- **Contact List App** — `React + Context + Router`  
-  _CRUD completo, búsqueda y favoritos contra API externa._
-
-- **Marketplace de alquiler deportivo** — `React + Flask + SQL`  
-  _Catálogo, carrito y endpoints REST (favoritos, auth JWT)._
-
----
-
 ## 📈 Estadísticas
 
 <p align="left">
