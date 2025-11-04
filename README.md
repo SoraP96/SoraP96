@@ -14,7 +14,7 @@ Experiencia previa en entornos industriales que me aportó **disciplina**, **res
 Me mueven el **aprendizaje continuo**, la **calidad de código** y construir productos útiles.
 
 - 🔭 Actualmente: practicando **APIs REST** (autenticación **JWT**, manejo de errores, tests)  
-- 🌱 Aprendiendo: **TypeScript** y **Django REST** (básico)  
+- 🌱 Aprendiendo: **Java** , **Spring Boot** y **Angular**
 - 🤝 Abierto a colaborar en: proyectos **React + Flask**
 - 💬 Pregúntame por: **React**, **Bootstrap**, **Flask**, **SQL**, **Git/GitHub**  
 - 📫 Cómo contactarme: **ponsblancomarlon@gmail.com** · [LinkedIn](www.linkedin.com/in/mapons96) 
